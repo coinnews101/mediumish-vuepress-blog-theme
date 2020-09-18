@@ -21,7 +21,7 @@ sections:
 upload_dir: docs/.vuepress/public/assets/img
 public_path: "/assets/img"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_output_directory: docs/.vuepress/public
